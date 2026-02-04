@@ -1,0 +1,2 @@
+The given DNA sequence is : ATGCATGC
+The RNA sequence is : AUGCAUGCWelcome to PERL
